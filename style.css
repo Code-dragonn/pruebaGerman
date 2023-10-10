@@ -2,6 +2,7 @@ h1 {
     text-align: center;
     color: blue;
     border-radius: 2px solid red;
+    border: none;
 }
 
 * {
